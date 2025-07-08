@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Joann_Nylon.xsl"?>
+<properties>
+    <header>
+        <key field="sensor id" readonly="1">2310183</key>
+        <key field="frame rate" readonly="1">200.00999450683594</key>
+        <key field="integration time" readonly="1">4.5</key>
+        <key field="samples" readonly="1">640</key>
+        <key field="active bands" readonly="1">224</key>
+        <key field="spatial binning" readonly="1">1</key>
+        <key field="spectral binning" readonly="1">1</key>
+        <key field="frames recorded" readonly="1">1800</key>
+        <key field="frames dropped" readonly="1">0</key>
+        <key field="data format" readonly="1">BIL</key>
+        <key field="date" readonly="1">2022-10-30</key>
+        <key field="date text" readonly="1">Sunday, October 30, 2022</key>
+        <key field="time" readonly="1">20:35:41</key>
+    </header>
+    <userdefined>
+        <key field="sample name" readonly="0">Joann_Nylon</key>
+        <key field="operator" readonly="0"></key>
+        <key field="description" readonly="0"></key>
+    </userdefined>
+</properties>
