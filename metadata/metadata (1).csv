@@ -1,0 +1,6 @@
+sample_id,fabric_class,blend_ratio,acquisition_date,raw_file,darkref_file,whiteref_file,hdr_file
+Joann_Fab_100Cotton,Cotton,100,2022-10-30,rawfiles/100Cotton/Joann_Fab_100Cotton.raw,rawfiles/100Cotton/DARKREF_Joann_Fab_100Cotton.raw,rawfiles/100Cotton/WHITEREF_Joann_Fab_100Cotton.raw,rawfiles/100Cotton/Joann_Fab_100Cotton.hdr
+Joann_Nylon,Nylon,100,2022-10-30,rawfiles/100Nylon/Joann_Nylon.raw,rawfiles/100Nylon/DARKREF_Joann_Nylon.raw,rawfiles/100Nylon/WHITEREF_Joann_Nylon.raw,rawfiles/100Nylon/Joann_Nylon.hdr
+Joann_Fab_100Poly_0002,Polyester,100,2022-10-30,rawfiles/100Poly/Joann_Fab_100Poly_0002.raw,rawfiles/100Poly/DARKREF_Joann_Fab_100Poly_0002.raw,rawfiles/100Poly/WHITEREF_Joann_Fab_100Poly_0002.raw,rawfiles/100Poly/Joann_Fab_100Poly_0002.hdr
+Joann_Fab_100Poly_CottonBlend,PolyCotton,Unknown,2022-10-30,rawfiles/PolyCottonBlends/Joann_Fab_100Poly_CottonBlend.raw,rawfiles/PolyCottonBlends/DARKREF_Joann_Fab_100Poly_CottonBlend.raw,rawfiles/PolyCottonBlends/WHITEREF_Joann_Fab_100Poly_CottonBlend.raw,rawfiles/PolyCottonBlends/Joann_Fab_100Poly_CottonBlend.hdr
+Joann_Poly_Spand,PolySpandex,Unknown,2022-10-30,rawfiles/PolySpandexBlends/Joann_Poly_Spand.raw,rawfiles/PolySpandexBlends/DARKREF_Joann_Poly_Spand.raw,rawfiles/PolySpandexBlends/WHITEREF_Joann_Poly_Spand.raw,rawfiles/PolySpandexBlends/Joann_Poly_Spand.hdr
