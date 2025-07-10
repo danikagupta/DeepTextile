@@ -9,7 +9,8 @@ This directory is intended to store supplementary information about the DeepText
 - Fabric composition details
 - Spectral band information
 - Data collection parameters
-- Sample documentation
+
+Each experiment contains an XML file with the above details, as well as a matching XSL file.
 
 ## Dataset Reference
 
