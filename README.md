@@ -115,16 +115,16 @@ If you use this dataset in your research, please cite our work:
 
 ## License
 
-[Please specify the license under which this dataset is released]
+Released under BSD License
 
 ## Contact
 
 For questions about the dataset or collaboration opportunities, please contact:
-- [Contact information]
+- dan@gprof.com
 
 ## Acknowledgments
 
-This work was supported by [funding sources] and conducted using the SPECIM FX-17 hyperspectral imaging system.
+We gratefully acknowledge the assistance of SPECIM in providing access to the SPECIM FX-17 hyperspectral imaging system.
 
 ---
 
